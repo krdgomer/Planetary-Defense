@@ -2,6 +2,8 @@
 
 A space shooter clone made with SFML. 
 
+https://griffin22.itch.io/planetary-defense
+
 
 ## STORY
 
