@@ -1,7 +1,5 @@
 # Planetary Defense
 
-## DESCRIPTION
-
 A space shooter clone made with SFML. 
 
 
